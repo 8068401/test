@@ -3,3 +3,4 @@ Git is free software
 、
 版本3
 Git tracks changes.
+Git tracks changes of files.
